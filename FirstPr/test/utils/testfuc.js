@@ -1,5 +1,5 @@
 require('chai').should();
-const plus = require('../src/utils/plus.js');
+const plus = require('../../src/utils/plus.js');
 describe("unit test function",()=>{
     it("-1 + 1 === 0",()=>{
         plus(-1,1).should.equal(0);

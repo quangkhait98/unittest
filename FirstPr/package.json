@@ -4,7 +4,7 @@
   "description": "firstproject",
   "main": "index.js",
   "scripts": {
-    "test": "mocha ./test/testfuc.js"
+    "test": "mocha ./test/utils/testfuc.js"
   },
   "author": "Quang Kha",
   "license": "MIT",
